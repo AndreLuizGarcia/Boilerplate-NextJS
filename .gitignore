@@ -34,3 +34,7 @@ yarn-error.log*
 .vercel
 
 .gitconfig
+
+# sw stuff
+public/sw.js
+public/workbox-*.js
